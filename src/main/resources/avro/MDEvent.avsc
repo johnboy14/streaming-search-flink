@@ -1,0 +1,8 @@
+{"namespace": "com.john.core",
+ "type": "record",
+ "name": "MDEvent",
+ "fields": [
+     {"name": "msgId", "type": "string"},
+     {"name": "volume", "type": "string"}
+ ]
+}

@@ -1,0 +1,8 @@
+{"namespace": "com.john.core",
+ "type": "record",
+ "name": "AlertQuery",
+ "fields": [
+     {"name": "userId", "type": "string"},
+     {"name": "queryMap", "type": {"type": "map", "values": "string"}}
+ ]
+}
